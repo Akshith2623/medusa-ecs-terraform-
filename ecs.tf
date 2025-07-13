@@ -1,0 +1,6 @@
+resource "aws_ecs_cluster" "medusa" {
+  ...
+}
+resource "aws_ecs_service" "medusa" {
+  ...
+}
